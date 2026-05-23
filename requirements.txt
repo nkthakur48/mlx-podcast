@@ -1,0 +1,5 @@
+mlx-lm>=0.20.0
+mlx-audio>=0.2.0
+pypdf>=4.0.0
+soundfile>=0.12.0
+numpy>=1.26.0
